@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 달력 몸통 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,34h36a6,6 0,0 1,6 6v32a6,6 0,0 1,-6 6h-36a6,6 0,0 1,-6 -6v-32a6,6 0,0 1,6 -6z" />
+    <!-- 머리띠 -->
+    <path
+        android:fillColor="#C7C4FA"
+        android:pathData="M36,34h36a6,6 0,0 1,6 6v6h-48v-6a6,6 0,0 1,6 -6z" />
+    <!-- 고리 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,28h4a1.5,1.5 0,0 1,1.5 1.5v8a1.5,1.5 0,0 1,-1.5 1.5h-4a1.5,1.5 0,0 1,-1.5 -1.5v-8a1.5,1.5 0,0 1,1.5 -1.5zM64,28h4a1.5,1.5 0,0 1,1.5 1.5v8a1.5,1.5 0,0 1,-1.5 1.5h-4a1.5,1.5 0,0 1,-1.5 -1.5v-8a1.5,1.5 0,0 1,1.5 -1.5z" />
+    <!-- 두 사람(공유) 점 -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M47,62m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M61,62m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+</vector>

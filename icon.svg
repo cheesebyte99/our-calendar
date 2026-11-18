@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-label="우리들의 캘린더">
+  <rect width="108" height="108" fill="#4F46E5"/>
+  <path fill="#FFFFFF" d="M36,34h36a6,6 0 0 1 6,6v32a6,6 0 0 1-6,6h-36a6,6 0 0 1-6-6v-32a6,6 0 0 1 6-6z"/>
+  <path fill="#C7C4FA" d="M36,34h36a6,6 0 0 1 6,6v6h-48v-6a6,6 0 0 1 6-6z"/>
+  <path fill="#FFFFFF" d="M40,28h4a1.5,1.5 0 0 1 1.5,1.5v8a1.5,1.5 0 0 1-1.5,1.5h-4a1.5,1.5 0 0 1-1.5-1.5v-8a1.5,1.5 0 0 1 1.5-1.5zM64,28h4a1.5,1.5 0 0 1 1.5,1.5v8a1.5,1.5 0 0 1-1.5,1.5h-4a1.5,1.5 0 0 1-1.5-1.5v-8a1.5,1.5 0 0 1 1.5-1.5z"/>
+  <circle cx="47" cy="62" r="6" fill="#4F46E5"/>
+  <circle cx="61" cy="62" r="6" fill="#F472B6"/>
+</svg>
